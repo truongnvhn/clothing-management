@@ -16,6 +16,5 @@ public class DBContext {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-        // gtesst cihic
     }
 }
